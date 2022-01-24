@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    background-color: white;
+    
+}
+#container{
+    height: 2600px;
+    width: 1347px;
+    border: 1px solid white;
+    background-color:lightsteelblue;
+    
+}
+#head{
+    height: 500px;
+    width: 1200px;
+    border: 1px solid white;
+    margin: 40px 45px -40px 75px;
+    
+    
+    
+}
+#spacex{
+    position: relative;
+    z-index: 1;
+}
+
+
+
+#sidebar{
+    height: 2080px;
+    width: 1000px;
+    /* border: 1px solid black; */
+    float: right;
+    margin-left: 175px;
+    background-color: whitesmoke;  
+    position: absolute;
+    z-index: 2;
+    box-shadow: 30px 10px 10px grey;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text{
+    width: 700px;
+    margin: auto;
+}
+    

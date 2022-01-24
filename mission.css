@@ -1,0 +1,43 @@
+body{
+    font-family:'Libre Baskerville', serif;
+    background-color:skyblue;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background: transparent;
+    
+    
+  
+}
+
+
+th{
+    border: 1px solid black;
+    height: 25px;
+    width: 95px;
+    background-color: lightseagreen;
+    
+}
+
+td{
+     border: 1px solid black; 
+    height: 25px;
+    width: 95px;
+    background-color:lightslategrey;
+}
+
+.cl{
+    background-color:lightcoral;
+}
+
+.fb{
+    background-color: lightgreen;
+}
+
+.Or{
+    background-color: lightsteelblue;
+}

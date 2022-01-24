@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+    font-family:'Libre Baskerville', serif;
+    overflow-x: hidden;
+    /* background-color:salmonss; */
+    background-image: url(Image/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg);
+    background-position: center;
+    position: relative;
+    background-size:cover;
+    
+}
+
+#menu{
+    height: 53px;
+    width: 100%;
+    /* border: 1px solid green ; */
+    background-color: black;
+    color:white; 
+}
+
+ul{
+    padding: 0px;
+    margin: 0;
+
+}
+
+li{ 
+    height: 30px;
+    font-size: 18px;
+    list-style: none;
+    /* border: 1px solid black; */
+    float: right;
+    color: white;
+    margin: 10px 20px 10px 20px;
+    
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    transition:1s;
+}
+ul li a:hover{
+    font-size: 19px;
+    text-decoration: underline;
+    color: orchid;
+}
+.photo{
+    height: 350px;
+    width: 350px;
+    border: 1px whitesmoke solid;
+    margin: 50px 0px 0px 70px;
+    float: left;
+}
+
+.details{
+    /* border: 1px black solid; */
+    height: 150px;
+    width: 800px;
+    float: right;
+    margin: 10px 0px 0px 0px;
+    text-align: left;
+    font-size: 21px;
+    color:whitesmoke;
+    
+}
+.formfill{
+    height: 350px;
+    width: 800px;
+    border-left: 5px solid gray;
+    margin: 10px 0px 0px 00px;
+    padding: 20px 20px 20px 20px;
+    float: left;
+    
+}
+#cbtn{
+    background-color: black;
+    color: white;
+    width: 220px;
+    height: 45px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 18px;
+    padding-top: 5px;
+    margin-left: 40px;
+    float: left;
+}
+
+#cbtn:hover{
+    background-color:rgb(109, 143, 152);
+    color:black;
+    
+}
+input[type=text]{
+     padding: 12px ;
+    box-sizing: border-box;
+    border: none;
+    width: 300px;
+    background-color:rgb(183, 183, 179);
+    border-bottom: 2px black solid;
+    margin-bottom: 5px;
+    font-size: 12px;
+    float: left;
+}
+
+.social{
+    height: 380px;
+    width: 400px;
+    float: right;
+    padding: 12px 0px 0px 40px;
+    font-size: 35px;
+}
+#form{
+    float: left;
+}
+.bi{
+    margin-left: 10px;
+}
+
+
+    

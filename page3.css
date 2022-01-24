@@ -1,0 +1,43 @@
+ body{
+     margin: 10px 5px 10px 5px;
+     overflow-x: hidden;
+ }
+ #head{
+    height: 400px;
+    width: 1364px;
+    /* border: 1px solid black; */
+}
+
+#text{
+    height: 3230px;
+    width: 1050px;
+    /* border: 1px solid black; */
+    margin: 0px 150px 0px 150px;
+    text-align: left;
+    font-size: 22px; 
+    padding: 20px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+#photo{
+    height: 400px;
+    width: 950px;
+    border: 2px ridge skyblue;
+    margin-top: 30px ;
+    margin-left: 30px;
+
+
+}
+
+#photo2{
+    height: 350px;
+    width: 1050px;
+    border: 2px ridge skyblue;
+    margin-top: 30px ;
+
+
+}

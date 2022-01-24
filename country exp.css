@@ -1,0 +1,52 @@
+
+body{
+    font-family:'Libre Baskerville', serif;
+    background:url(Image/matteo-fusco-m94kn8Rp61Q-unsplash.jpg);
+    background-position: center;
+    background-size:cover;
+    
+    
+   
+}
+
+table{
+    text-align: center;
+    margin: 30px 150px 0px 150px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background: transparent;
+
+}h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+.symbol{
+    font-size: 19px;
+    margin-left: 120px;
+    color: whitesmoke;
+}
+
+.heading{
+    width: 200px;
+    
+}
+
+th{
+    border: 1px solid black;
+    height: 30px;
+    background-color:lightslategray;
+    
+    
+}
+
+td{
+    border: 1px solid black; 
+   height: 30px;
+   width: 100px;
+}
+
+.details{
+    font-size: 19px;
+}

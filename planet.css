@@ -1,0 +1,27 @@
+body{
+    font-family:'Libre Baskerville', serif;
+    background:-webkit-linear-gradient(left , black , brown, skyblue );
+}
+
+table{
+     margin: auto;
+}
+
+.row{
+    text-align: center;
+    font-size: 20px;
+   
+
+}
+th{
+    height: 100px;
+    font-size: 25px;
+     
+}
+td{
+    border: 2px ridge lightgray;
+    height: 200px ;
+    width: 200px;
+    color:white;
+    
+}
